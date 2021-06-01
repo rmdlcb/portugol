@@ -12,7 +12,6 @@ programa
 		
 		caso 1 : 
 		escreva ("Ok!Abrir Netflix")
-		abrir arquivo ("D:\\The Banner Saga\\win32\\The Banner Saga.exe", 1)
 		inicio()
 		pare
 
